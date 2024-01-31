@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HappyLife2
 - 👀 I’m interested in ... Web Development, Machine Learning, and Games Development.
-- 🌱 I’m currently learning ... Games Development
+- 🌱 I’m currently learning ... Software Development
 - 💞️ I’m looking to collaborate on ... Anything I can help with
 - 📫 How to reach me ... Email me: Jehad.Altoutou@gmail.com
 
