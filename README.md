@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Software Developer and IT professional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happylife2&label=Profile%20views&color=0e75b6&style=flat" alt="happylife2" /> </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HappyLife2&theme=github)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happylife2" alt="happylife2" /></a> </p>
 
