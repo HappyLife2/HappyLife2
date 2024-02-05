@@ -1,9 +1,24 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Jehad Altoutou</h1>
 <h3 align="center">A passionate Software Developer and IT professional.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happylife2&label=Profile%20views&color=0e75b6&style=flat" alt="happylife2" /> </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HappyLife2&theme=github)
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HappyLife2&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HappyLife2&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HappyLife2&theme=github" />
+  </a>
+</div>
+
+<!--<div align="center">
+  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
+</div> -->
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happylife2" alt="happylife2" /></a> </p>
