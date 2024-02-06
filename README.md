@@ -8,7 +8,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HappyLife2&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HappyLife2&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HappyLife2&theme=default" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HappyLife2&theme=github" />
