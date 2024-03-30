@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Jehad Altoutou</h1>
-<h3 align="center">A passionate Software Developer and IT professional.</h3>
+<h3 align="center">A passionate Front-End Developer and IT professional.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happylife2&label=Profile%20views&color=0e75b6&style=flat" alt="happylife2" /> </p>
 
 <div align="center">
