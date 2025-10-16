@@ -13,9 +13,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HappyLife2&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=happylife2&" alt="happylife2" />
-  </a>
+
 </div>
 
 <!--<div align="center">
