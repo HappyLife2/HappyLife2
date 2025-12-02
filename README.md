@@ -1,49 +1,80 @@
+<!-- ========================= CYBERPUNK HERO SECTION ========================= -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">👋 Hi, I'm Jehad Altoutou</h1>
-<h3 align="center">AI Workflow Specialist • Automation Engineer • LLM Systems Architect</h3>
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Jehad+Altoutou;AI+Workflow+Specialist;Automation+Engineer;LLM+Systems+Architect;Designing+AI-Native+Automation+Ecosystems" 
+    alt="Typing SVG"
+/>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=happylife2&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+  <b>Dubai-based AI Workflow & Automation Engineer building production-grade, multi-agent systems across real estate, ops, and enterprise workflows.</b>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HappyLife2&label=Profile%20views&color=00e5ff&style=flat" alt="Profile views"/>
+</p>
+
+
+---
+
+## ⚙️ Cyberpunk Tech Stack Strip
+
+<div align="center" style="white-space: nowrap; overflow-x: auto; padding: 10px;">
+  <img src="https://skillicons.dev/icons?i=n8n" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=redis" height="45" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</div>
 
 ---
 
 ## 🚀 About Me  
+
 I'm an **AI Workflow Specialist & Automation Engineer** based in Dubai, building **AI-native, production-grade automation ecosystems** using:
 
-- **n8n** (advanced workflows, multi-agent orchestration, retrieval systems)  
-- **LLMs (OpenAI, Claude, custom tooling agents)**  
-- **Pipedrive CRM Automations (full AI-driven sales pipelines)**  
-- **Twilio Voice Agents (Retell AI, VAPI) – 217,000+ outbound calls automated**  
-- **WhatsApp Assistants (Cloud API) – conversational AI with real-time retrieval**  
-- **Real Estate AI Systems** (ReellyAI, PF, Bayut integrations, off-plan APIs)  
-- **Semantic Search & Vector Databases** (Pinecone, Supabase Vector)  
-- **End-to-end workflow engineering across HR, Sales, Operations & Marketing**
+- **n8n (expert-level workflow architecture & automation design)**  
+- **LLMs (OpenAI, Claude, Multi-Agent Tooling)**  
+- **Pipedrive CRM Automations**  
+- **Twilio Voice AI + Retell AI + VAPI**  
+- **WhatsApp Cloud API Assistants**  
+- **ReellyAI, PF, Bayut, Off-Plan API Integrations**  
+- **Semantic Search, RAG, Vector Databases (Pinecone, Supabase)**  
 
-I build **automation infrastructures that replace manual workflows**, generate measurable business impact, and scale across organizations.
+I build automation infrastructures that replace manual workflows and scale across operations, HR, sales, marketing, and enterprise processes.
 
 ---
 
 ## 🧠 What I Do (2025 Expertise)
-- 🔹 **Design AI-native systems** that automate entire departments  
-- 🔹 **Build multi-agent AI pipelines** for real-time decision-making  
-- 🔹 **Architect scalable n8n workflows** (50+ enterprise-grade automations delivered)  
-- 🔹 **Deploy high-volume voice AI call systems** (217K+ calls in 2 months)  
-- 🔹 **Implement semantic retrieval** for property search & internal RAG  
-- 🔹 **Engineer company-wide AI assistants** for HR, Sales, Operations & Management  
-- 🔹 **Integrate 20+ external APIs** (ReellyAI, Google, PF, WhatsApp, Twilio, Pipedrive)
+
+- 🔹 Architect **AI-native systems** for enterprise automation  
+- 🔹 Build **multi-agent LLM pipelines** for real-time orchestration  
+- 🔹 Engineer **scalable n8n automation ecosystems**  
+- 🔹 Deploy voice AI systems handling **200k+ calls**  
+- 🔹 Implement semantic retrieval for real estate AI search  
+- 🔹 Integrate **20+ APIs** across internal + external systems  
+- 🔹 Build production-grade assistants for **WhatsApp, voice, and web**
+
+
 
 ---
 
-## 🏆 Key Achievements
-- ⚡ **217,000+ automated AI phone calls** executed using Twilio + Retell  
-- ⚡ **Replaced 35+ FTEs of manual work** through AI automation  
-- ⚡ **Saved > AED 40,000+ monthly** in operational cost via optimized AI pipelines  
-- ⚡ **Developed 30+ end-to-end enterprise automations** across multiple departments  
+## 🏆 Key Achievements  
+
+- ⚡ **217,000+ automated AI calls** via Twilio + Retell  
+- ⚡ **Replaced 35+ FTEs** worth of manual workload  
+- ⚡ **Saved AED 40,000+ monthly** from optimized pipelines  
+- ⚡ **Delivered 30+ enterprise automations** within 1 year  
 - ⚡ **Helped Kaye & Co win Property Finder’s “Quality Brokerage of the Year”**  
-- ⚡ **Architected real-state AI systems using ReellyAI APIs + smart agents**  
-- ⚡ **Developed multi-source retrieval over Pocket Listings, PF data & internal sheets**
+- ⚡ **Engineered full AI search with ReellyAI + Pocket Listings + internal RAG**
 
 ---
 
@@ -55,19 +86,24 @@ I build **automation infrastructures that replace manual workflows**, generate m
 </p>
 
 - OpenAI GPT-5 / GPT-4  
-- Claude 3.5 Sonnet / Claude 3.7  
-- Tool-calling, multi-agent orchestration  
-- Custom retrieval (Pinecone, Supabase Vector)  
+- Claude 3.5 / 3.7  
+- Tool-calling & orchestration  
+- Vector retrieval (Pinecone, Supabase Vector)
+
+---
 
 ### **Automation**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,ts,nodejs" height="45"/>
 </p>
 
-- **n8n (expert)**  
-- Make.com  
-- Zapier  
-- Webhooks / API Integrations  
+- **n8n (expert-level)**  
+- Webhook & API call automation  
+- Python automation  
+- Make.com / Zapier  
+- Full departmental workflow orchestration  
+
+---
 
 ### **Backend & APIs**
 <p>
@@ -75,8 +111,11 @@ I build **automation infrastructures that replace manual workflows**, generate m
 </p>
 
 - REST APIs  
-- OAuth2 / JWT  
+- OAuth2  
+- Google APIs  
 - Cloud Run / Railway / Render  
+
+---
 
 ### **Databases**
 <p>
@@ -84,37 +123,61 @@ I build **automation infrastructures that replace manual workflows**, generate m
 </p>
 
 - PostgreSQL  
-- Supabase  
+- Supabase DB  
 - Pinecone  
-- Google Sheets as DB  
-
-### **Voice AI / Comms**
-- Twilio  
-- Retell AI  
-- WhatsApp Cloud API  
-- VAPI  
-
-### **Dev Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="45"/>
-</p>
+- Google Sheets DB  
 
 ---
 
-## 📊 GitHub Stats  
+### **Voice AI / Communication**
+- Twilio  
+- Retell AI  
+- VAPI  
+- WhatsApp Cloud API  
+
+---
+
+## 📊 Cyber Activity Hub  
+
 <div align="center">
+
+  <!-- Profile summary -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HappyLife2&theme=github" />
+
+  <!-- Stats + Languages -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HappyLife2&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HappyLife2&theme=github" />
+
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyLife2&theme=tokyonight&hide_border=false" />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=HappyLife2&theme=algolia&row=1&no-bg=true&no-frame=true" />
+
 </div>
 
 ---
 
-## 📫 Contact  
-- 📧 Email: **jehad.altoutou@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/jehad-altoutou](https://www.linkedin.com/in/jehad-altoutou-897611327/)  
-- 🧪 Kaggle: [kaggle.com/jehadat](https://kaggle.com/jehadat)
+## 📡 Automation Playground (Coming soon)
+
+> I’ll be publishing public versions of:
+> - Merlin-style AI property search flows  
+> - Voice AI call orchestration templates  
+> - n8n blueprints for multi-agent orchestration  
+> - Real estate RAG + Pocket Listings demos  
+
+Stay tuned and ⭐ **star** the repos you like — it genuinely helps signal what to open-source next.
 
 ---
 
-<h3 align="center">⚡ Building the future of AI-driven automation — one workflow at a time.</h3>
+## 📫 Contact  
+
+- 📧 Email: **[jehad.altoutou@gmail.com](mailto:jehad.altoutou@gmail.com)**  
+- 💼 LinkedIn: **[My LinkedIn](https://www.linkedin.com/in/jehad-altoutou-897611327/)**  
+- 🧪 Kaggle: **[My Kaggle Profile](https://kaggle.com/jehadat)**  
+
+---
+
+<h3 align="center">
+  ⚡ Building the future of AI-driven automation — one workflow at a time.
+</h3>
