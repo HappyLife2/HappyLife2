@@ -148,11 +148,6 @@ I build automation infrastructures that replace manual workflows and scale acros
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HappyLife2&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HappyLife2&theme=github" />
 
-  <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HappyLife2&theme=tokyonight&hide_border=false" />
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HappyLife2&theme=algolia&row=1&no-bg=true&no-frame=true" />
 
 </div>
 
