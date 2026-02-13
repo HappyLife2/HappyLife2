@@ -69,7 +69,7 @@ I build automation infrastructures that replace manual workflows and scale acros
 
 ## 🏆 Key Achievements  
 
-- ⚡ **217,000+ automated AI calls** via Twilio + Retell  
+- ⚡ **350,000+ automated AI calls** via Twilio + Retell  
 - ⚡ **Replaced 35+ FTEs** worth of manual workload  
 - ⚡ **Saved AED 40,000+ monthly** from optimized pipelines  
 - ⚡ **Delivered 30+ enterprise automations** within 1 year  
