@@ -58,7 +58,7 @@ I build automation infrastructures that replace manual workflows and scale acros
 - 🔹 Architect **AI-native systems** for enterprise automation  
 - 🔹 Build **multi-agent LLM pipelines** for real-time orchestration  
 - 🔹 Engineer **scalable n8n automation ecosystems**  
-- 🔹 Deploy voice AI systems handling **200k+ calls**  
+- 🔹 Deploy voice AI systems handling **300k+ calls**  
 - 🔹 Implement semantic retrieval for real estate AI search  
 - 🔹 Integrate **20+ APIs** across internal + external systems  
 - 🔹 Build production-grade assistants for **WhatsApp, voice, and web**
