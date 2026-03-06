@@ -86,7 +86,7 @@ I build automation infrastructures that replace manual workflows and scale acros
 </p>
 
 - OpenAI GPT-5 / GPT-4  
-- Claude 3.5 / 3.7  
+- Claude Models
 - Tool-calling & orchestration  
 - Vector retrieval (Pinecone, Supabase Vector)
 
