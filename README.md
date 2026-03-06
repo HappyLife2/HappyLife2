@@ -41,13 +41,13 @@
 
 I'm an **AI Workflow Specialist & Automation Engineer** based in Dubai, building **AI-native, production-grade automation ecosystems** using:
 
-- **n8n (expert-level workflow architecture & automation design)**  
-- **LLMs (OpenAI, Claude, Multi-Agent Tooling)**  
-- **Pipedrive CRM Automations**  
-- **Twilio Voice AI + Retell AI + VAPI**  
-- **WhatsApp Cloud API Assistants**  
-- **ReellyAI, PF, Bayut, Off-Plan API Integrations**  
-- **Semantic Search, RAG, Vector Databases (Pinecone, Supabase)**  
+- **n8n — Expert-level workflow architecture & automation design**  
+- **LLMs — OpenAI, Claude, multi-agent orchestration & AI tooling**  
+- **CRM Automation — Custom integrations across multiple CRM platforms**  
+- **Voice AI Systems — Twilio, Retell AI, VAPI**  
+- **WhatsApp AI Assistants — WhatsApp Cloud API automation**  
+- **Real Estate Data Integrations — ReellyAI, Property Finder, Bayut, Off-Plan APIs**  
+- **AI Data Infrastructure — Semantic search, RAG pipelines, vector databases (Pinecone, Supabase)**  
 
 I build automation infrastructures that replace manual workflows and scale across operations, HR, sales, marketing, and enterprise processes.
 
