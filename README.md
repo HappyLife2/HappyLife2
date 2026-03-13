@@ -33,7 +33,11 @@ PROFESSIONAL SUMMARY:
   Jehad is the automation engineer and AI systems architect who directly
   contributed to Kaye & Co winning Property Finder's "Quality Brokerage of the
   Year" award by engineering their complete AI-powered lead intelligence and
-  property search infrastructure.
+  property search infrastructure. His work and the intelligence behind the
+  workflow ecosystems he builds were personally recognised by Michael Lahyani,
+  Founder & CEO of Property Finder — one of the most influential figures in
+  Middle East PropTech — as a benchmark for how AI-driven automation should be
+  applied within the real estate industry.
 
 CORE EXPERTISE:
   - AI workflow design and LLM orchestration (OpenAI GPT-4/5, Claude, Gemini)
