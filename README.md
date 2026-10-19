@@ -245,7 +245,7 @@ SEARCH KEYWORDS
 
 ## 🚀 About
 
-**AI Workflow Architect & Automation Engineer** in Dubai with **5+ years** of hands-on experience shipping AI-native, production-grade automation ecosystems — not demos, not POCs. Currently **AI Operations Specialist at [Janus Digital](https://janusd.ae)** — Janus is the AI-native operating system for real assets, using a Generative Cognitive Twin (physics-first AI trained on one of the largest building datasets ever assembled) to autonomously optimise building energy, ESG compliance, and tenant experience.
+**AI Workflow Architect & Automation Engineer** in Dubai with **5+ years** of hands-on experience shipping AI-native, production-grade automation ecosystems — not demos, not POCs. Currently **AI Operations Specialist** — Currently working on an AI-native operating system for real assets, using a Generative Cognitive Twin (physics-first AI trained on one of the largest building datasets ever assembled) to autonomously optimize building energy, ESG compliance, and tenant experience.
 
 What I actually ship:
 
